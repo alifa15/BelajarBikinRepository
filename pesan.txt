@@ -1,0 +1,1 @@
+ini adalah pesan pertama di dalam branch 2ndbranch. Pesan ini hanya untuk ditulis, bukan dibaca

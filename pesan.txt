@@ -1,1 +1,3 @@
 ini pesan untuk 1stbranch, tolong dibaca
+dan di bawah adalah pesan branch kedua
+ini adalah pesan pertama di dalam branch 2ndbranch. Pesan ini hanya untuk ditulis, bukan dibaca
